@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owhcgvm.github.io/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/app/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/assets/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/css/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/data/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/includes/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/item/sitemap.owhcgvm.gz
+Sitemap: https://owhcgvm.github.io/src/sitemap.owhcgvm.gz
